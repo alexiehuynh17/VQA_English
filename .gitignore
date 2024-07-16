@@ -1,9 +1,6 @@
 # data
 
 data
-*.txt
-*.npy
-*.json
 
 # file
 
@@ -14,3 +11,4 @@ log*
 resize_image/
 __pycache__/
 images/
+dataset/Template/
